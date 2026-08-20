@@ -4,3 +4,5 @@ Shoping List :
 3. Bread
 4. Cream 
 5. Noodles
+6. Fruits 
+7. Cheese
