@@ -2,5 +2,7 @@ Shoping List :
 1. Milk 
 2. Butter
 3. Bread
-4. Fruits 
-5. Cheese
+4. Cream 
+5. Noodles
+6. Fruits 
+7. Cheese
